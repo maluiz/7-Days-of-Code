@@ -1,5 +1,5 @@
 # 7-Days-of-Code
-urante os 7 Days de Lógica com Javascript, você vai praticar com a linguagem mais usada no mundo e aprenderá como usar o Javascript para criar algoritmos e resolver problemas do seu dia a dia. Vamos ver como usar variáveis, condicionais e estruturas de loop para resolver problemas que são a base que qualquer pessoa entrando na área da programação precisa conhecer.
+Durante os 7 Days de Lógica com Javascript, você vai praticar com a linguagem mais usada no mundo e aprenderá como usar o Javascript para criar algoritmos e resolver problemas do seu dia a dia. Vamos ver como usar variáveis, condicionais e estruturas de loop para resolver problemas que são a base que qualquer pessoa entrando na área da programação precisa conhecer.
 DIA 1
 Já no primeiro dia, você vai ver como o que parece ser um simples detalhe pode fazer toda a diferença no seu código e trazer o resultado esperado e correto ou, dependendo de como você implementar o código, o mesmo comando pode trazer um resultado não esperado. Nesse dia, você aprenderá mais sobre o comando if e operações booleanas dentro do JS
 
